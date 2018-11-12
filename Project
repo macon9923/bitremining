@@ -1,90 +1,126 @@
-Bitre Mining (BTGN)
 
-Next Generation Mining Infrastructure
+Bitre Mining 
+
+« Next Generation Mining Infrastructure »
+
+1- «Mining Overview» 
 
 
--BTGN is an ERC-20 token issued by Bitre Mining  and has utility value in that it allows token holders to access the Bitre Mining system and utilize the mining pool.
+Cryptocurrency has been predicted to be an intermediary to replace cash in the future by using Blockchain technology as the backbone to verify the accuracy of each individual’s money transaction.
+
+The creditworthiness of the depository institution will disappear as soon as the cryptocurrency is widely used because there is no need of the intermediary in money deposit process.
+
+Currently, the cryptocurrency is regarded more likely as an alternative asset or a speculative investment than as an exchange intermediary. Replacing a traditional currency with cryptocurrency may require some time, some advancement in technology to accommodate the tremendous amount of future transactions, and users’ knowledge. Although the cryptocurrency has not been fully accepted as a medium of exchange, the cryptocurrency has already been accepted of having its market value. Another method to invest in cryptocurrency is the cryptocurrency transaction confirmation which provides two-way incomes : transaction fees and the block rewards. This activity is known unofficially as “mining”. This idea derived from gold mining. A computer generates a random number to brute force mathematic equations to win a prize. The first successful solver will be awarded. The idea is similar to gold mining : those who are stronger and work better, tend to have more chances to get the reward.
+
+2-«Bitre Mining (BTGN)»
+
+-BTGN is an ERC-20 token issued by Bitre Mining and has utility value in that it allows token holders to access the Bitre Mining system and utilize the mining pool.
+
 -BTGN holders can pledge BTGN to gain a portion of the hashing power of the whole network. BTGN holders also have the right to participate in community building, and gain access to mining expansion and technology support activities
 
-Name		:	Bitre Mining
-Symbol		:	BTGN
-Decimal		:	8
-Total	supply	:	25,000,000
+Name	:	Bitre Mining
+Symbol	:	BTGN
+Decimal	:	8
+Total supply	:	25,000,000
 Smart contract	:	0x956cdac781389d259de92e427ecd86e1cc273f7f
 
-Platform To Mining Cryptocurrency:
+3-« Platform To Mining Cryptocurrency »
 
-Bitre Mining proposes a decentralized mining pool based on blockchain technology to provide an open. fair. accessible and transparent mining pool for investors. Investors will also be able to benefit from the overall services based on the rich experiences and resources of the founders.
+Bitre Mining proposes a decentralized mining pool based on blockchain technology. accessible and transparent mining pool for investors. Investors will also be able to benefit from the overall services based on the rich experiences and resources of the founders.
 
-Bitre mining distribution:
+4-« Bitre mining distribution »
 
-The Bitre Mining project will issue 25 million BTGN tokens. 50% of BTGN will be for Sale) ICO( , 15% will be set aside for community support and incentive schemes: 25% will be kept by the foundation as reserves, 10% will be set aside for the development team. In addition, the tokens held by the development team will be locked up and will only be gradually vested according to the project roadmap.
+The Bitre Mining project will issue 25 million BTGN tokens. 50% of BTGN will be for Sale « ICO » , 15% will be set aside for community support and incentive schemes: 25% will be kept by the foundation as reserves, 10% will be set aside for the development team. In addition, the tokens held by the development team will be locked up and will only be gradually vested according to the project roadmap.
 
-
-contract Plan:
+5-« contract Plan »
 
 BTGN holder can deposit or pledge BTGN to gain Hashing Power Credit to obtain the mined coins. The specific rules are as follows:
 
 The proportion of computing power is determined by the price of the mining rig and the BTGN market price. For example, when the BTGN market price is 0.50$, 4,600 BTGN can be exchanged for the full hashing power of an RIG(6gpu) mining , assuming if a rig costs 2,300$.
 
-Users can choose the duration they want to pledge the BTGN for hashing power credit (shortest is 3 months). Upon the end of the pledged period the BTGN returns to the user and the user can then decide whether to continue to pledge for another period for the hashing power.
+6-« Deposit contract Plan »
 
-When the BTGN is deposited, BTGN holders will also receive the fixed deposit interest in addition to the hashing power.
+- deposit token BTGN equivalent «  2 GPU price » = receive currency Mining Profits Every3  month until expiration « GPU » 2 to 3 years.
 
+- deposit token BTGN equivalent «  4 GPU  price» = receive currency Mining Profits Every3  month until expiration « GPU » 2 to 3 years    .
 
-Deposit contract Plan:
+- deposit token BTGN equivalent «  6 GPU price » = receive currency Mining Profits Every3  month until expiration « GPU » 2 to 3 years .
 
+« The mining pool will start after the BTGN has been deposited. They will be put into the pool for users to gain the hashing power which is in turn used to obtain the mined coins. »
 
-All BTGN tokens will be subjected to the following deposit schedule and incentives based on duration.
+« We do not guarantee any profits , According to hardware capabilities »
+«  We will only accept investments when the BTGN Daily trading above $ 3,000 »
 
--3 Months (deposit token BTGN equivalent ( 2 GPU) = receive your deposit +5%+ Currency Mining Profits after expiration)
-
--6 Months (deposit token BTGN equivalent ( 4 GPU)= receive your deposit +8%+ Currency Mining Profits after expiration)
-
--12 Months (deposit token BTGN equivalent ( 6 GPU) = receive your deposit +15%+ Currency Mining Profits after expiration)
-
-The mining pool will start after the BTGN has been deposited. They will be put into the pool for users to gain the hashing power which is in turn used to obtain the mined coins. At the same time, users will earn the mining pool income.
+7-« technologies used »
 
 
-Cryptocurrency Mining:
 
-Bitre Mining will offer Bitcoin mining, Ethereum mining and Litecoin mining at the beginning. In the future, Bitre Mining will take into account token holders preferences as well as the market conditions to possibly offer other mining opportunities.
+1- Individual RIG profile mining 
 
-Presently, on offer are the 3 different mining pools where the user can choose according to his preference and/or cost-benefit analysis. This greatly reduces the information asymmetry caused by the high barriers of mining and switching, and allows users to achieve a dynamic balance of different cryptocurrencies mining pool income.
+2- Blockchain Based
 
-Earnings Distribution:
+3- Real Time updates 
+
+4- Automated keep alive mining detection
+
+
+
+8-« Cryptocurrency Mining »
+
+
+
+-Bitre Mining will offer Bitcoin mining, Ethereum and Litecoin at the beginning. In the future, Bitre Mining will take into account token holders preferences as well as the market conditions to possibly offer other mining opportunities.
+-Presently, on offer are the Ethereum mining pools
+
+9-« BTGN Benefits »
+
+BTGN besides offering users the hashing power, also allows the following uses:
+
+-	BTGN holders can vote for and participate in new mining pools
+
+-	BTGN holders can vote for the renewal and disposal of mining rigs
+
+-	BTGN holders can enjoy the community and technical support BTGN usage extends to the whole Bitre Mining ecosystem and results in a closed and sustainable loop. Everything is settled with BTGN tokens, the purchase and management of the mining equipment, the conversion and ratio of hashing power and the mining pool costs.
+
+10-« Earnings Distribution »
+
 The total Bitre Mining earnings will be allocated for the following purposes:
 
-68% of the earnings will be Send to an investor; 14% of the earnings will be used for variable and operational costs, including labor costs, electricity costs, land leasing fees and maintenance costs; 8% of the earnings will be used for the technological developments and equipment renewal; the remaining 10% of the earnings will be used for marketing and other miscellaneous costs.
+82% of the earnings will be Send to an investor : 8% of the earnings will be used for variable and operational costs, including labor costs, electricity costs, land leasing fees and maintenance costs; 5% of the earnings will be used for the technological developments and equipment renewal; the remaining 5% of the earnings will be used for marketing and other miscellaneous costs.
+
+11-« Roadmap »
 
 
-ICO:
--There are 3 offers you can purchase unlimited number of pack :
+2018 Q3
+Concept / Research / Programming site / Airdrop / Token Sale / Exchanges
+2019 Q2
+Start accepting investments / Website Update / Other exchange
+2019 Q3
+First Mining Reward Payout
+2020 Q1
+Expansion of Mining / Professional Mining
 
-▶️ 5000 BTGN = 0.01 ETH + 10% bonus
+12-« DISCLAIMER »
 
-▶️ 10000 BTGN = 0.02 ETH + 15% bonus
+The purpose of this White Paper is to present the Bitre Mining project to potential token holders in connection with the proposed Token Launch. The information set forth below may not be exhaustive and does not imply any elements of a contractual relationship, Its sole purpose to provide relevant and reasonable information to potential token holders in order for them to determine whether to undertake a thorough analysis of the company with the intent of acquiring BTGN tokens. Nothing in this Whitepaper Shall be deemed to constitute a prospectus of any Sort or a solicitation for investment, nor does it in any way pertain to an offering or a solicitation of an offer to buy and securities in any jurisdiction. This document is not composed in accordance with, and is not subject to, laws or regulations of any jurisdiction which are designed to protect investors. Certain statements, estimates and financial information contained in this Whitepaper constitute forward looking statements or information. Such forward looking statements or information involve known and unknown risks and uncertainties which may cause actual events or results to differ materially from the estimates or the results implied or expressed in such forward looking statements. This English language whitepaper is the primary official Source of information about BTGN Token Launch, The information contained herein from time to time be translated into other languages or used in the course of written or verbal communications with existing and prospective customers, partners etc. In the course of such translation or communication some of the information contained herein may be lost, corrupted, or misrepresented. The accuracy of such alternative communications cannot be guaranteed. In the event of any conflicts or inconsistencies between such translations and communications and this official English language WhitePaper, the provisions of this English language original document Shall prevail.
 
-▶️ 20000 BTGN = 0.04 ETH + 20% bonus
-
--We accept one payment processor : Ethereum (ETH )
-
-price: 01 BTGN = 0.000002 ETH
+13« Contact us »
 
 
 
-informations:
+Official website: https://bitremining.com
 
-Website : https://bitremining.com
+E-mail: support@bitremining.com
 
-White Paper: https://bitremining.com/Whitepaper.php
+Group telegram : https://t.me/bitre_token
 
-Support: support@bitremining.com
+Channel telegram  : https://t.me/bitre_mining
 
-Social Media:
 
-Twitter: https://twitter.com/bitre_mining
 
-Telegram group chat : https://t.me/joinchat/FWryiBMD59Z8705lKaDQ_A
 
-Telegram channel : https://t.me/bitre_mining
+
+
+
+
+
